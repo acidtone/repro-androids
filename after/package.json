@@ -1,0 +1,10 @@
+{
+  "name": "androids",
+  "version": "2.0.0",
+  "main": "main.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Tony Grimes",
+  "license": "MIT",
+  "description": "Minimal repro of nested array loop"
+}
